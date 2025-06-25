@@ -6,7 +6,7 @@ import time
 from argparse import ArgumentParser
 from datetime import datetime
 from time import sleep
-from synchrophasor.pdc import Pdc
+from pyc37.pdc import Pdc
 
 
 if __name__ == "__main__":

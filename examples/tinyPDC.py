@@ -1,5 +1,5 @@
-from synchrophasor.pdc import Pdc
-from synchrophasor.frame import DataFrame
+from pyc37.pdc import Pdc
+from pyc37.frame import DataFrame
 
 """
 tinyPDC will connect to pmu_ip:pmu_port and send request

@@ -1,7 +1,7 @@
 import random
 
-from synchrophasor.frame import ConfigFrame2
-from synchrophasor.pmu import Pmu
+from pyc37.frame import ConfigFrame2
+from pyc37.pmu import Pmu
 
 
 """

@@ -1,4 +1,4 @@
-from synchrophasor.splitter import StreamSplitter
+from pyc37.splitter import StreamSplitter
 
 
 """

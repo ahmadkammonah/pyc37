@@ -1,9 +1,9 @@
 import binascii
 
-from synchrophasor.frame import CommandFrame
-from synchrophasor.frame import ConfigFrame2
-from synchrophasor.frame import DataFrame
-from synchrophasor.frame import HeaderFrame
+from pyc37.frame import CommandFrame
+from pyc37.frame import ConfigFrame2
+from pyc37.frame import DataFrame
+from pyc37.frame import HeaderFrame
 
 
 __author__ = "Stevan Sandi"

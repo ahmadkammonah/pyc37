@@ -7,7 +7,7 @@ from multiprocessing import Queue
 from multiprocessing import Process
 from sys import stdout
 from time import sleep
-from synchrophasor.frame import *
+from pyc37.frame import *
 
 
 __author__ = "Stevan Sandi"

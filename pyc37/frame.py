@@ -19,8 +19,8 @@ from struct import pack, unpack
 from time import time
 from math import sqrt, atan2
 
-from synchrophasor.utils import crc16xmodem
-from synchrophasor.utils import list2bytes
+from pyc37.utils import crc16xmodem
+from pyc37.utils import list2bytes
 
 
 __author__ = "Stevan Sandi"

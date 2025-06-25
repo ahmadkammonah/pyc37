@@ -1,7 +1,7 @@
 import logging
 import socket
 from sys import stdout
-from synchrophasor.frame import *
+from pyc37.frame import *
 
 
 __author__ = "Stevan Sandi"

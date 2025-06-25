@@ -1,5 +1,5 @@
-from synchrophasor.frame import *
-from synchrophasor.pmu import Pmu
+from pyc37.frame import *
+from pyc37.pmu import Pmu
 
 
 """
